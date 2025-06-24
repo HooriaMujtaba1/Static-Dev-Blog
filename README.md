@@ -41,12 +41,11 @@ A beautifully styled developer blog built with **Next.js**, **Markdown-to-HTML**
 1. Clone the Repo
 
 ```json
-{
 
        git clone https://github.com/your-username/my-coding-journey.git
        cd my-coding-journey
 
-}
+
 ```
 
    
@@ -76,8 +75,6 @@ A beautifully styled developer blog built with **Next.js**, **Markdown-to-HTML**
     Next.js
 
     Tailwind CSS
-
-    Marked.js for markdown parsing
 
     Unsplash for blog images
 
