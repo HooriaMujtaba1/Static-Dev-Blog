@@ -17,7 +17,6 @@ A beautifully styled developer blog built with **Next.js**, **Markdown-to-HTML**
 - ✅ SEO-friendly metadata via `<Head>`
 - ✅ Reading time estimator
 - ✅ Tailwind CSS + custom CSS variables
-- ✅ Markdown-style content rendered as HTML
 
 ---
 
