@@ -40,14 +40,8 @@ A beautifully styled developer blog built with **Next.js**, **Markdown-to-HTML**
 🚀 Getting Started
 1. Clone the Repo
 
-```json
-
-       git clone https://github.com/your-username/my-coding-journey.git
-       cd my-coding-journey
-
-
-```
-
+           git clone https://github.com/your-username/my-coding-journey.git
+           cd my-coding-journey
    
 3. Install Dependencies
 
