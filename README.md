@@ -45,24 +45,13 @@ A beautifully styled developer blog built with **Next.js**, **Markdown-to-HTML**
    
 3. Install Dependencies
 
-
-```json
-{
-    npm install  
-}
-```
-  
+       npm install  
    
 5. Run the Dev Server
 
-```json
-{
- 
        npm run dev
    
        Visit: http://localhost:3000    
-}
-```
 
 ## 🛠 Built With
 
