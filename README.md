@@ -2,7 +2,7 @@
 
 A beautifully styled developer blog built with **Next.js**, **Markdown-to-HTML**, and **Tailwind CSS** — designed to share insights, tips, and experiences from a coding journey. It features a fully static, fast-loading architecture with modern features like search, image previews, responsive design, and dynamic routing.
 
-![My Coding Journey Screenshot]
+
 ![Screenshot (581)](https://github.com/user-attachments/assets/b203eb1b-fe05-4e95-b453-db396b69347d)
 
 ---
@@ -40,18 +40,36 @@ A beautifully styled developer blog built with **Next.js**, **Markdown-to-HTML**
 🚀 Getting Started
 1. Clone the Repo
 
+```json
+{
+
        git clone https://github.com/your-username/my-coding-journey.git
        cd my-coding-journey
+
+}
+```
+
    
 3. Install Dependencies
 
-       npm install
+
+```json
+{
+    npm install  
+}
+```
+  
    
 5. Run the Dev Server
 
+```json
+{
+ 
        npm run dev
    
-       Visit: http://localhost:3000
+       Visit: http://localhost:3000    
+}
+```
 
 ## 🛠 Built With
 
