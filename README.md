@@ -40,30 +40,21 @@ A beautifully styled developer blog built with **Next.js**, **Markdown-to-HTML**
 🚀 Getting Started
 1. Clone the Repo
 
-    git clone https://github.com/your-username/my-coding-journey.git
-    cd my-coding-journey
-2. Install Dependencies
-bash
-Copy
-Edit
-npm install
-3. Run the Dev Server
-bash
-Copy
-Edit
-npm run dev
-Visit: http://localhost:3000
+       git clone https://github.com/your-username/my-coding-journey.git
+       cd my-coding-journey
+   
+3. Install Dependencies
 
-🔧 Customize It
-Add new blog posts in data/posts/*.json
+       npm install
+   
+5. Run the Dev Server
 
-Update images: use either /public/images/ or external image URLs
+       npm run dev
+   
+       Visit: http://localhost:3000
 
-Style the layout via globals.css or extend Tailwind
+## 🛠 Built With
 
-Update SEO meta in pages/index.js and [slug].js
-
-🛠 Built With
 Next.js
 
 Tailwind CSS
@@ -72,14 +63,15 @@ Marked.js for markdown parsing
 
 Unsplash for blog images
 
-📸 Screenshots
-Desktop 3-Grid Layout	Post Detail View
+## 📸 Screenshots
 
-🙋‍♀️ Author
+![Screenshot (582)](https://github.com/user-attachments/assets/6509ec72-417a-4e3b-95de-66dad29770f6)
+
+
+## 🙋‍♀️ Author
 Hooria Mujtaba
-Aspiring frontend developer and lifelong learner.
+Aspiring full stack developer and lifelong learner.
 💼 Passionate about building clean, accessible, and meaningful web apps.
 
-📬 Connect on LinkedIn (add your link)
 
 
