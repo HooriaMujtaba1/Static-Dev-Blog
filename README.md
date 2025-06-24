@@ -73,13 +73,13 @@ A beautifully styled developer blog built with **Next.js**, **Markdown-to-HTML**
 
 ## 🛠 Built With
 
-Next.js
+    Next.js
 
-Tailwind CSS
+    Tailwind CSS
 
-Marked.js for markdown parsing
+    Marked.js for markdown parsing
 
-Unsplash for blog images
+    Unsplash for blog images
 
 ## 📸 Screenshots
 
@@ -88,8 +88,11 @@ Unsplash for blog images
 
 ## 🙋‍♀️ Author
 Hooria Mujtaba
+
 Aspiring full stack developer and lifelong learner.
+
 💼 Passionate about building clean, accessible, and meaningful web apps.
+
 
 
 
